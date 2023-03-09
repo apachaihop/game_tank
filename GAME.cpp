@@ -158,6 +158,15 @@ int main()
                 ctank.y += cos(angle) * 1.5;
                 speed = 0;
             }
+            if (Keyboard::isKeyPressed(Keyboard::S) && Stank.getGlobalBounds().intersects(Swalls[i].getGlobalBounds())
+
+                )
+            {
+
+                ctank.x += sin(angle) * 1.5;
+                ctank.y -= cos(angle) * 1.5;
+                speed = 0;
+            }
         }
         ctank.move();
         game.clear();
