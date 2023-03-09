@@ -1,0 +1,47 @@
+﻿  GAME.cpp
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(11,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(11,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(12,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(41,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(41,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(92,32): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(95,25): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(96,27): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(107,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(107,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(169,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(170,46): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(172,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(172,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(173,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(175,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(176,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(176,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(182,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(184,27): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(185,28): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(196,53): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(197,55): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\poize\source\repos\GAME\GAME\GAME.cpp(204,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  1 of 215 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  GAME.vcxproj -> C:\Users\poize\source\repos\GAME\x64\Release\GAME.exe
